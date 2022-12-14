@@ -6,3 +6,6 @@ This repository houses resources for debugging performance issues and improving 
 
 ## Memory Management
 - [Pandas Memory Management](https://charumakhijani.medium.com/pandas-memory-management-b24807d2bb15) Provides some neat suggestions on how to use optimize on memory when using pandas DataFrrame. 
+
+## CPU profiling
+- [Profiling in Python (Detect CPU & memory bottlenecks)](https://likegeeks.com/python-profiling/) Provides a host of libraries to profile python code to identify bottlenecks.
