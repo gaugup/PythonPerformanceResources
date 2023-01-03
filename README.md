@@ -1,3 +1,5 @@
+[![Link check](https://github.com/gaugup/PythonPerformanceResources/actions/workflows/linkcheck.yml/badge.svg?branch=main)](https://github.com/gaugup/PythonPerformanceResources/actions/workflows/linkcheck.yml)
+
 # Python Performance Resources
 This repository houses resources for debugging performance issues and improving performance of python programs.
 
